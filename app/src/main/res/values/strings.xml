@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AmeduzaNews</string>
+    <string name="urlserver"><![CDATA[https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=]]></string>
+    <string name="key">aa722fc8e5494d67920b1cee53cfdcac</string>
+    <string name="read_more">Leia Mais</string>
+    <string name="title_error">Woopss !!</string>
+    <string name="message_data_error">Erro ao baixar dados ...</string>
+</resources>
